@@ -2,7 +2,7 @@
  
 Análise de Dados referente aos exames de COVID de pacientes do Hospital Israelita Albert Einstein/SP.
 
-[Teste_Housi.pdf](https://github.com/barbaramani/Teste-Analytics-Housi/files/12973149/Teste_Housi.pdf)
+[Teste_Housi.pdf](https://github.com/barbaramani/Teste-Analytics-Housi/files/12973229/Teste_Housi.pdf)
 
 
 Alguns pontos que pude observar nessa análise: 
